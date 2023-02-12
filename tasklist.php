@@ -18,7 +18,7 @@
 					$tasks[] = $row;
 				}
 				return $tasks;
-			}else{
+			} else {
 				return 0;
 			}	
 				

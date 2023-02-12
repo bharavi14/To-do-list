@@ -23,7 +23,6 @@
 
 	$tasklist = new GetTask($db);
 	$tasks = $tasklist->getTaskDetail($_GET['id']);
-	
 	//print_r($tasks);	
 ?>
 

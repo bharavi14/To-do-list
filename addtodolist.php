@@ -16,7 +16,6 @@
 	    			echo "Task added to the To-Do-List Successfully";
 	    		}
 	    		else{
-
 	    			echo "Task not saved successfully";
 	    		}
 

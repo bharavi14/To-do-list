@@ -22,7 +22,7 @@
 					$_SESSION['user_details'] = $row;
 				}
 				header('Location: addtasks.php');
-			}else{
+			} else{
 				return false;
 			}
 	    }

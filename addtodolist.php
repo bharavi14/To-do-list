@@ -1,7 +1,7 @@
 <?php 
 	class Addtodolist {
 	  	
-	  	private $conn;
+	    private $conn;
 
 	    public function __construct($db) {
 

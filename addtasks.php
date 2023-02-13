@@ -1,7 +1,6 @@
  <?php
  	session_start();
  	//print_r($_SESSION); 
-	
 	include_once 'config/db.php';
 	include_once 'addtodolist.php';
 	include_once 'tasklist.php';
